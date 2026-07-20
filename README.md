@@ -1,2 +1,2 @@
-# CSA1216-Slot-A
-computer architecture , contains lab implementations and CO assessment tools
+# CSA1216-Slot-A (LAB IMPLEMENTATION)
+computer architecture , contains lab implementations 
